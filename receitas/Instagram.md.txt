@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>Instagram</title>
+</head>
+<body>
+	<div class="instagram-wrapper">
+		<div class="instagram-phone">
+			<img src="celular.png" alt="celular">
+		</div>
+		<div class="instagram-continue">
+			<div class="group">
+				<img src="instagram-logo.jpg" class="instagram-logo" alt="instagram-logo">
+				<div class="profile-photo">
+					<img src="thi.jpg" alt="foto de perfil">
+				</div>
+				<a href="#" class="instagram-login">Continuar como thi.ks</a>
+				<a href="#" class="instagram-logout">Remover conta</a>
+			</div>
+			<div class="group">
+				<p class="not-account">Não é thi.ks?</p>
+				<p class="not-account">
+					<span class="link-blue">Alternar contas</span>
+					ou
+					<span class="link-blue">Inscreva-se</span>
+				</p>
+			</div>
+			<div class="get-the-app">
+				<p class="get-app">Baixe o aplicativo</p>
+				<div class="download-app">
+					<a href="#" class="appdownload">
+						<img src="app-store.png" class="appdownload" alt="site app store">
+					</a>
+					<div class="download">
+					<a href="#" class="app-download">
+						<img src="google-play.png" class="app-download" alt="site goole play">
+					</a>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
